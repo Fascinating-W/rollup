@@ -2,8 +2,10 @@
  * @Author: Wanko
  * @Date: 2023-02-15 15:47:35
  * @LastEditors: Wanko
- * @LastEditTime: 2023-02-16 14:18:33
+ * @LastEditTime: 2023-02-16 17:12:38
  * @Description: 
  */
-console.log('hello')
+import { addPi } from './add.js'
+console.log(addPi(10))
+
 export default 'hello word'
